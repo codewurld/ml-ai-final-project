@@ -6,7 +6,7 @@ This is a copy of my final project for my Machine Learning and AI for Business S
 
 ## Project Overview
 
-This project aims to apply two machine learning algorithms, namely, Logistics Regression and K-Nearest Neighbour to predict heart diseases in individuals in a given dataset. 
+This project aims to apply two machine learning algorithms, namely, Logistics Regression and K-Nearest Neighbour to predict heart diseases in individuals within a given dataset. 
 
 ### Processes include:
 
