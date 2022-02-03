@@ -2,7 +2,7 @@
 
 ## Context
 
-This is a copy of my final project for my Machine Learning and AI for Business Solutions course.
+This is a copy of my final project for my Machine Learning and AI for Business Solutions course at Teesside University.
 
 ## Project Overview
 
@@ -15,16 +15,14 @@ This project aims to apply two machine learning algorithms, namely, Logistics Re
 - Model Building
 - Model Training
 - Model Evaluation
+- Predictions
+- Final Report (submitted separately)
 
+### Tools used:
+- Python
+- Libraries (Scikit Learn, Panda, Numpy)
+- Jupyter Notebook
 
-Collecting Data: As you know, machines initially learn from the data that you give them. ...
-Preparing the Data: After you have your data, you have to prepare it. ...
-Choosing a Model: ...
-Training the Model: ...
-Evaluating the Model: ...
-Parameter Tuning: ...
-Making Predictions.
+### Dataset
+Available from Kaggle [here](https://www.kaggle.com/fedesoriano/heart-failure-prediction)
 
-Dependencies
-
-Git Clone
